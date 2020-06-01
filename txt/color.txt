@@ -1,0 +1,25 @@
+red: #f55e69
+pink: #f55eba
+purple: #b05ef5
+blue: #5e9ef5
+sky_blue: #5ed7f5
+green: #5ef565
+yellow: #f0f55e
+orange: #f59a5e
+white: #ffffff
+gray1: #e5e5e5
+gray2: #cccccc
+gray3: #b3b3b3
+gray4: #999999
+gray5: #808080
+gray6: #666666
+dark_gray1: #4d4d4d
+dark_gray2: #333333
+dark_gray3: #1a1a1a
+
+body_background: #f2f2f2
+
+selection: #b9d7ff
+selection: rgb(185,215,255,0.2)
+
+border-radius: 5px

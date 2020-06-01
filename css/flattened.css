@@ -1,0 +1,94 @@
+/*--fonts--*/
+/*--code--*/
+@font-face
+{
+	font-family: 'Cascadia';
+	font-style: normal;
+	src: url('../access/fonts/CascadiaCode.ttf');
+}
+/*--display--*/
+@font-face
+{
+	font-family: 'SourceHanSans';
+	font-style: bold;
+	src: url('../access/fonts/SourceHanSans-Bold.otf');
+}
+@font-face
+{
+	font-family: 'SourceHanSans';
+	font-style: normal;
+	src: url('../access/fonts/SourceHanSans-Normal.otf');
+}
+
+/*--html elements--*/
+html
+{
+    font-family: 'SourceHanSans';
+}
+body
+{
+	margin: 0 !important;
+	background-color: #f2f2f2;
+}
+
+.shadow
+{
+	box-shadow: 0 10px 30px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);
+}
+
+/*--scrollbar--*/
+::-webkit-scrollbar
+{
+    width: 10px;
+    height: 10px;
+    background-color: #cccccc;
+}
+::-webkit-scrollbar-track
+{
+    background-color: #cccccc;
+}
+::-webkit-scrollbar-thumb
+{
+    background-color: #b3b3b3;
+}
+::-webkit-scrollbar-thumb:hover
+{
+    background-color: #808080;
+}
+
+/*--selection--*/
+*::selection
+{
+    background-color: #b9d7ff;
+    opacity: 0.2;
+}
+*::-moz-selection
+{
+    background-color: #b9d7ff;
+    opacity: 0.2;
+}
+*::-webkit-selection
+{
+    background-color: #b9d7ff;
+    opacity: 0.2;
+}
+
+/*--elements--*/
+.box
+{
+	background-color: #ffffff;
+	border-radius: 5px;
+	padding: 1.5rem;
+}
+.header
+{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 70px;
+	background-color: #ffffff;
+}
+.contant
+{
+	margin-top: 100px;
+}

@@ -1,0 +1,21 @@
+/*--fonts--*/
+/*--code--*/
+@font-face
+{
+	font-family: 'Cascadia';
+	font-style: normal;
+	src: url('../access/fonts/CascadiaCode.ttf');
+}
+/*--display--*/
+@font-face
+{
+	font-family: 'SourceHanSans';
+	font-style: bold;
+	src: url('../access/fonts/SourceHanSans-Bold.otf');
+}
+@font-face
+{
+	font-family: 'SourceHanSans';
+	font-style: normal;
+	src: url('../access/fonts/SourceHanSans-Normal.otf');
+}
