@@ -1,1 +1,1 @@
-![](https://shields.io/github/repo-size/zhangtianli2006/Flattened-Design)
+![repo-size](https://shields.io/github/repo-size/zhangtianli2006/Flattened-Design)
